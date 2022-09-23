@@ -1,11 +1,18 @@
-# UNIT PLAN NAME
+# UNIT PLAN NAME: Introductionn to Data Science 
 by TEAM MEMBERS
 
------
+Maxwell Yearwood-----
 
 ### General Overview
 (include here description of unit, what class(es) it fits into, when...)
-
+This unit takes high school students through 5 steps of data cleaning using R Studio ove the course of two weeks.
+These 5 steps are:
+* Familiarize yourself with the data,
+* Check with structural errors,
+* Check for data irregularities,
+* Decide how to deal with missing values, and
+* Document data versions and changes made
+ 
 ---
 
 ### Motivation for Unit
