@@ -1,12 +1,12 @@
 # UNIT PLAN NAME: Data Collection and Preparation 
 by TEAM MEMBERS
 
-Maxwell Yearwood-----
+**Maxwell Yearwood-----
 
 ### General Overview
 (include here description of unit, what class(es) it fits into, when...)
 
-**Unit 1 : Data Collection and Preparation takes high school students through 11 steps of data cleaning. At the end of these two weeks,
+Unit 1 : Data Collection and Preparation takes high school students through 11 steps of data cleaning. At the end of these two weeks,
 students are expected to able to apply concepts related to data collection and prepartion as they acquire an appreciation for the 
 datification of the world in which they will live and work. This course will be open to students who have completed atleast one AP course
 in the following subject disciplines: AP CSA, AP Statistics, or AP Research Seminar.
