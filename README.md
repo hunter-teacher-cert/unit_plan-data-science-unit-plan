@@ -1,7 +1,7 @@
 # UNIT PLAN NAME: Data Collection and Preparation 
 by TEAM MEMBERS
 
-**Maxwell Yearwood-----
+Maxwell Yearwood-----
 
 ### General Overview
 (include here description of unit, what class(es) it fits into, when...)
