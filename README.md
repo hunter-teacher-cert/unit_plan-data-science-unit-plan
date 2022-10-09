@@ -29,6 +29,13 @@ will help students to appreciate how various subject areas can be brought togeth
 
 ### Standards Referenced
 List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
+* 9-12.IC.7 Impacts of Computing, Career Paths
+* 9-12.CT.2 Computational Thinking, Data Analysis and Visualization
+* 9-12.CT.3 Computational Thinking, Data Analysis and Visualization
+* 9-12.CT.7 Computational Thinking, Algorithms and Programming
+* 9-12.DL.5 Digital Literacy, Digital Use
+* 9-12.CT.10 Computational Thinking, Algorithms and Programming
+
 
 ---
 
