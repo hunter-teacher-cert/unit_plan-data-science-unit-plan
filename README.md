@@ -77,7 +77,7 @@ Total length: 2 Weeks
 # **Assignment for Formative Assessment
 
 ## **Classwork
-#**Note: This dataset is used by students on even numbered days to practice what they learned on odd-numbered days.
+#**Note: This dataset is used by students on even-numbered days to practice what they learned on odd-numbered days.
 
 The table below contains date collected by New York City’s law enforcement over the years 2000 to 2021. The data lists what the City’s law enforcement considers as seven major felonious crimes. Use the data below to create a Data Frame for 5 Consecutive Years to implement what was modeled in class by following the steps below.
 
