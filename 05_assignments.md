@@ -5,6 +5,8 @@
 
 The table below contains date collected by New York City’s law enforcement over the years 2000 to 2021. The data lists what the City’s law enforcement considers as seven major felonious crimes. Use the data below to create a Data Frame for 5 Consecutive Years to implement what was modeled in class by following the steps below.
 
+#**Note: This dataset is used by students on even-numbered days to practice what they learned on odd-numbered days.
+
 #1.	Reading the NYC Law Enforcement Crime Data from the Data Source_1 link below
 *  Data downloaded and stored as:    crime_major_Felony_Data.csv
 *	 Steps:
