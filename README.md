@@ -41,22 +41,39 @@ List The NY State Computer Science standards you will be covering in this unit. 
 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+* Programming Language: Python
+* Imported Library: pandas. numpy, and matplotlib.pyplot
 
 ---
 
 ### Resources
-(include any links/books/readings to be used during this unit)
+
+*[Text Book: An Introduction to Data Science: A Python Approaches to Concepts, Techniques and Applications by Laura Igual and Santi Segui](https://thuvienpdf-com.translate.goog/introduction-to-data-science-a-python-approach-to-concepts--techniques-and-applications?_x_tr_sl=vi&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc)
+
+
 
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total lenght: 2 Weeks
 
-(list each lesson with main topic(s))
-
+### List of lessons by main topic(s))
+* Data Reading and Selection part 1
+* Data Reading and Selection part 2
+* Filtering data and handling missing data part 1
+* Filtering data and handling missing data part 2
+* Data manipulation and sorting part 1
+* Data manipulation and sorting part 2
+* Grouping and rearranging data part 1
+* Grouping and rearranging data part 2
+* Ranking and plotting data part 1
+* Ranking and plotting data part 2
 ---
 
 ### Assesments
 (list summative and/or formative assessments used)
+## Summative Assessments
 
+
+## Formative Assessments
 ---
