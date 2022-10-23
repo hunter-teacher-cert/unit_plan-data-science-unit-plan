@@ -55,7 +55,7 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ---
 
 ### Lessons
-Total lenght: 2 Weeks
+Total length: 2 Weeks
 
 ### List of lessons by main topic(s))
 * Data Reading and Selection part 1
